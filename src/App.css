@@ -1,0 +1,11 @@
+body {
+  background-image: url("../public//Images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* color: #fff; */
+}
+
+.top {
+  color: #fff;
+}
